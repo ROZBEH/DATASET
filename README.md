@@ -1,5 +1,6 @@
 # DATASET
-This is the <a href="/goo.gl/HuDVHT">link</a> to the dataset. <br>
+This is the [link](goo.gl/HuDVHT "data link")  to the dataset. <br>
+
 <br>
 <b>Please cite the following two papers if you are using this dataset.</b>
 <br>

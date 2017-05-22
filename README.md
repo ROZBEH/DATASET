@@ -1,5 +1,5 @@
 # DATASET
-This is the [link](goo.gl/HuDVHT "data link")  to the dataset. <br>
+This is the [link](https://drive.google.com/drive/folders/0B0c-5LPY0RKWcDBjdjhZSGtHaWc?usp=sharing "data link")  to the dataset. <br>
 
 <br>
 <b>Please cite the following two papers if you are using this dataset.</b>

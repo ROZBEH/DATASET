@@ -1,6 +1,5 @@
 # DATASET
-Following is the link to the dataset. <br>
-<a>goo.gl/HuDVHT</a>
+Following is the <a href="goo.gl/HuDVHT">link</a> to the dataset. <br>
 <br>
 <b>Please cite the following two papers if you are using this dataset.</b>
 <br>1. Rouzbeh A. Shirvani, Mario Piergallini, Gauri S. Gautam and Mohamed Chouikha, “Word-Level Language Identification and Predicting Codeswitching Points in Swahili-English Language Data”, Conference on Empirical Methods in Natural Language Processing, Austin, Texas, USA, November 2016.
